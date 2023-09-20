@@ -1,4 +1,13 @@
 {
-    "mobile": "1.0.2",
-    "desktop": "1.0.2"
+    "mobile": {
+        "version": "1.0.2",
+        "changelog": []
+    },
+    "desktop": {
+        "version": "1.0.2",
+        "changelog": [
+            "Added select all images button on batch grid.",
+            "Bug fixes."
+        ]
+    },
 }
