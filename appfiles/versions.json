@@ -5,7 +5,7 @@
     },
     "desktop": {
         "version": "1.0.2",
-        "downloadlink": "https://eazyeditor-public.s3.eu-north-1.amazonaws.com/Eazy+Editor-win-latest-1.0.2.exe"
+        "downloadlink": "https://eazyeditor-public.s3.eu-north-1.amazonaws.com/Eazy+Editor-win-latest-1.0.1.exe"
         "changelog": [
             "Added select all images button on batch grid.",
             "Bug fixes."
