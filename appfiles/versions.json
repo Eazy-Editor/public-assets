@@ -4,15 +4,10 @@
         "changelog": []
     },
     "desktop": {
-        "version": "1.0.2",
-        "downloadlink": "https://eazyeditor-public.s3.eu-north-1.amazonaws.com/Eazy+Editor-win-latest-1.0.2.exe",
+        "version": "1.0.3",
+        "downloadlink": "https://eazyeditor-public.s3.eu-north-1.amazonaws.com/Eazy+Editor-win-latest-1.0.3.exe",
         "changelog": [
-            "Added select all images button on batch grid.",
-            "Added Edge correction",
-            "Magic features on Single image edit page as well",
-            "No need to name the project now, can rename it later",
-            "Reduced app installation size",
-            "Bug fixes"
+            "Bug fixes."
         ]
     }
 }
