@@ -4,8 +4,8 @@
         "changelog": []
     },
     "desktop": {
-        "version": "1.0.3",
-        "downloadlink": "https://eazyeditor-public.s3.eu-north-1.amazonaws.com/Eazy+Editor-win-latest-1.0.3.exe",
+        "version": "1.0.4",
+        "downloadlink": "https://eazyeditor-public.s3.eu-north-1.amazonaws.com/Eazy+Editor-win-latest-1.0.4.exe",
         "changelog": [
             "Bug fixes."
         ]
