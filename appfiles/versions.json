@@ -4,10 +4,16 @@
         "changelog": []
     },
     "desktop": {
-        "version": "1.0.5",
-        "downloadlink": "https://eazyeditor-public.s3.eu-north-1.amazonaws.com/Eazy+Editor-win-latest-1.0.5.exe",
+        "version": "1.0.6",
+        "downloadlink": "https://eazyeditor-public.s3.eu-north-1.amazonaws.com/Eazy+Editor-win-latest-1.0.6.exe",
+        "win_downloadlink": "https://eazyeditor-public.s3.eu-north-1.amazonaws.com/Eazy+Editor-win-latest-1.0.6.exe",
+        "mac_downloadlink": "https://eazyeditor-public.s3.eu-north-1.amazonaws.com/Eazy+Editor-1.0.6.dmg",
         "changelog": [
-            "Bug fixes."
-        ]
+                "Now you can search backgrounds online and use them for free",
+                "Object Eraser is live now, use it to remove anything from your images",
+                "Now you can decide how many images you want to see in your batch grid",
+                "Option to sort recent projects",
+                "Bug fixes"
+            ]
     }
 }
